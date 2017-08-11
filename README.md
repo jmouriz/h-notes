@@ -19,5 +19,5 @@ H-Notes es un pequeño cuaderno de apuntes escrito en JavaScript que usa Indexed
 ## Instalación
 
 ```
-$ bower install
+$ yarn install
 ```
