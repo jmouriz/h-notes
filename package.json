@@ -1,0 +1,22 @@
+{
+  "name": "notes-local",
+  "version": "1.0.0",
+  "description": "IndexedDB Notes",
+  "main": "index.html",
+  "repository": "https://github.com/jmouriz/notes-local.git",
+  "author": "Juan Manuel <jmouriz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-animate": "^1.6.5",
+    "angular-aria": "^1.6.5",
+    "angular-database": "^1.0.0",
+    "angular-material": "^1.1.4",
+    "angular-material-icons": "^0.7.1",
+    "angular-messages": "^1.6.5",
+    "jquery": "^3.2.1",
+    "moment": "^2.18.1",
+    "showdown": "^1.7.2",
+    "svg-morpheus": "^0.3.0"
+  }
+}
