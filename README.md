@@ -1,6 +1,6 @@
 # H-Notes
 
-H-Notes es un pequeño cuaderno de apuntes escrito en JavaScript que usa IndexedDB como base de datos. Es más bien un ejemplo de una aplicación híbrida con diseño de materiales, sensible al dispositivo (responsive).
+H-Notes es un pequeño cuaderno de apuntes escrito en JavaScript que usa IndexedDB como base de datos. Es más bien un ejemplo de cómo usar el módulo [angular-database](https://yarnpkg.com/en/package/angular-database) aunque también puede servir como guia para una aplicación híbrida con diseño de materiales y sensible al dispositivo (responsive)
 
 # Capturas de pantalla
 
